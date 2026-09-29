@@ -1,12 +1,5 @@
-## Created with Capacitor Create App
+## CubeQuant App
 
-This app was created using [`@capacitor/create-app`](https://github.com/ionic-team/create-capacitor-app),
-and comes with a very minimal shell for building an app.
+CubeQuant is a professional crypto quantitative staking platform. Multi-chain deposits (USDT/USDC), steady yields, daily airdrop rewards, and exclusive referral bonuses.
 
-### Running this example
-
-To run the provided example, you can use `npm start` command.
-
-```bash
-npm start
-```
+ [`cubequant`](https://cubequant.app),
